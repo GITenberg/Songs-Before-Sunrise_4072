@@ -1,0 +1,26 @@
+_repo: Songs-Before-Sunrise_4072
+creator:
+  author:
+    agent_name: Swinburne, Algernon Charles
+    aliases:
+    - Maitland, Thomas
+    - Maitland, A. C. (Algernon Charles)
+    birthdate: 1837
+    deathdate: 1909
+    gutenberg_agent_id: '832'
+    url: http://www.gutenberg.org/2009/agents/832
+    wikipedia: http://en.wikipedia.org/wiki/Algernon_Swinburne
+description: Digte skrevet som hyldest til europæiske frihedsbevægelser
+gutenberg_issued: '2003-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4072'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English poetry -- 19th century'
+title: Songs Before Sunrise
+url: http://www.gutenberg.org/ebooks/4072
